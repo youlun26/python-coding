@@ -1,0 +1,5 @@
+%%writefile requirements.txt
+streamlit
+# Add any other necessary libraries here, e.g.:
+# numpy
+# pandas
